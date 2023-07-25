@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116642192793",
+    "project_id": "absence-employees",
+    "storage_bucket": "absence-employees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116642192793:android:7267bb79c8f2a70eacc708",
+        "android_client_info": {
+          "package_name": "com.example.my_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116642192793-3hqds0t55ivsn0b27uof8m1pqmgiq28h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfe-UP_p4pRfeHy9qEjkYI62H13dDvwW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116642192793-3hqds0t55ivsn0b27uof8m1pqmgiq28h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
